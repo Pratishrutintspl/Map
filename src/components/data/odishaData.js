@@ -29,6 +29,7 @@ const odishaData = {
   Tahasil: "317",
   categories: [
     {
+         id: "1",
       title: "General Facts",
       color: "#ffffff", // aqua
       items: [
@@ -49,6 +50,7 @@ const odishaData = {
     },
 
     {
+         id: "2",
       title: "Boundary",
       color: "#ffffff", // aqua
       items: [
@@ -76,6 +78,7 @@ const odishaData = {
     },
 
     {
+         id: "3",
       title: "Symbols Of Odisha",
       color: "#ffffff", // aqua
       items: [
@@ -108,6 +111,7 @@ const odishaData = {
       ],
     },
     {
+         id: "4",
       title: "Population (2011 Census)",
       color: "#ffffff", // aqua
       items: [
@@ -161,6 +165,7 @@ const odishaData = {
     },
 
     {
+         id: "5",
       title: "Language",
       color: "#ffffff", // aqua
       items: [

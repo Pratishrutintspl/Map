@@ -53,8 +53,8 @@ const PortfolioTabs = () => {
           </div>
         </Tab>
 
-        <Tab eventKey="odisha" title="Odisha">
-          <div className="tab-content-box shadow-sm">
+        <Tab eventKey="odisha" title="Odisha" >
+          <div className="tab-content-box shadow-sm row">
             <Odisha />
           </div>
         </Tab>
